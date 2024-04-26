@@ -1,0 +1,11 @@
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\bin\Debug\TTCN.exe.config
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\bin\Debug\TTCN.exe
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\bin\Debug\TTCN.pdb
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.Form1.resources
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.Forms.Khachhang.resources
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.Properties.Resources.resources
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.csproj.GenerateResource.cache
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.exe
+D:\Tài liệu học tập\Lập trình NET\TTCN\TTCN\obj\Debug\TTCN.pdb
